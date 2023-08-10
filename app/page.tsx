@@ -3,7 +3,6 @@ import StateDemo from "./StateDemo";
 
 export default function Home() {
   return (
-    // StateDemo
     <StateDemo />
   );
 }
